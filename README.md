@@ -33,7 +33,7 @@ Le code principal se trouve dans la racine du projet et les dossiers suivants:
 
 1. Cloner le dépôt
 ```bash
-git clone https://github.com/noubao/blog-api
+https://github.com/oumaribrahim-max/TAF1_INF222
 ``` 
 
 2. Installer les dépendances
